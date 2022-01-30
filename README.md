@@ -14,4 +14,4 @@
 
 ## Author 
 
-*Github:* [Alfaisal](https://github.com/AlfaisalGassim) 
+***GitHub:*** [Alfaisal](https://github.com/AlfaisalGassim) 
