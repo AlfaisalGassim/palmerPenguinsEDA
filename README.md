@@ -15,8 +15,9 @@
 
 ## |HTML|
 
-[Project main page](https://alfaisalgassim.github.io/palmerPenguinsEDA)
-[Project jupyter Notebook in HTML](https://alfaisalgassim.github.io/palmerPenguinsEDA/palmerpenguins.html)
+> [Project main page](https://alfaisalgassim.github.io/palmerPenguinsEDA)
+
+> [Project jupyter Notebook in HTML](https://alfaisalgassim.github.io/palmerPenguinsEDA/palmerpenguins.html)
 
 
 ## Author 
